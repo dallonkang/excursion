@@ -1,0 +1,48 @@
+h1 {
+  font-weight: normal;
+  font-size: 3.125em;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+video {
+  display: block;
+  margin: 2% auto;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 2.625em;
+}
+
+h1,
+h2 {
+  color: white;
+}
+
+h6 {
+  font-size: 1.3125em;
+  font-weight: normal;
+}
+
+#coming-soon img {
+  margin-top: 1%;
+}
+
+footer {
+  text-align: end;
+}
+
+h6,
+footer {
+  color: gray;
+}
